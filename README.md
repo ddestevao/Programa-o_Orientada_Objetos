@@ -1,2 +1,2 @@
 # Programacao_Orientada_Objetos
-Este repositório contem projetos POO
+Este Repositório possui exercícios de Programação Orientada a Objetos.
